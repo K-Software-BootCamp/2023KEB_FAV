@@ -74,17 +74,17 @@
 
 ---
 
-### 📌 참고
+### 📌 자세한 설명과 코드, WIKI 참
 
 프론트 엔드
 
-- https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/Front-end
+- [https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/Front-end](https://github.com/K-Software-BootCamp/2023KEB_FAV/wiki/Front-end)
 
 백엔드
 
-- https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/Back-end
+- [https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/Back-end](https://github.com/K-Software-BootCamp/2023KEB_FAV/wiki/Back-end)
 
 Sensor 및 AI
 
-- https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/AI-%26-Sensor
+- [https://github.com/jadewisemann/Smart_Farm_Monitoring_System/wiki/AI-%26-Sensor](https://github.com/K-Software-BootCamp/2023KEB_FAV/wiki/AI-%26-Sensor)https://github.com/K-Software-BootCamp/2023KEB_FAV/wiki/AI-%26-Sensor
 
